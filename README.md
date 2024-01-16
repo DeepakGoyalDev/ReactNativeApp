@@ -1,4 +1,4 @@
-# ReactNativeApp
-This is Practise React Native Appo
+# Practise ReactNativeApp
+This is a Practise React Native App.
 
-check Images folder for screenshots.
+check the Images folder for screenshots.
